@@ -11,4 +11,14 @@ Informaciión para CDK - Links de referencia
 
 
 # Python - Paso a paso
-* AAA
+* UWSGI
+* FLASK
+* PYMONGO
+* PYMSSQL
+* REDIS
+* REQUESTS
+
+
+# MongoDB - Comandos
+* FIND 
+> db.getCollection('cliente').find({})
